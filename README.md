@@ -6,7 +6,7 @@ A sleek, responsive, and secure web application engineered to streamline campus 
 
 ## ✨ Key Features
 
-- **Institutional Identity Gate**: Frictionless authentication validating 10-character college USN formatting (`1DA22CS001`) with automatic uppercase casting and SQL-level attribution.
+- **Institutional Identity Gate**: Lightweight authentication validating 10-character college USN formatting (`1DA22CS001`) with automatic uppercase casting and SQL-level attribution.
 - **Categorized Reporting & Recovery**: Dedicated pipelines for reporting lost valuables and cataloging found items with dynamic location tags and contact links.
 - **Instant Client-Side Filtering**: Real-time keyword filtering and segmented tab switching (Lost, Found, All) for zero-lag item discovery without page reloads.
 - **Secure Media Pipeline**: Server-side MIME-type validation, randomized filename hashing, and async lazy-loaded asset handling.
@@ -37,7 +37,7 @@ The database consists of two optimized relational tables:
 
 ## 🚀 Setup & Installation
 
-1. **Clone the repository:**
+1. **Clone or Download the Repository:**
    ```bash
    git clone https://github.com/namithgt17/Lost-and-Found-Management-System.git
    ```
@@ -61,3 +61,6 @@ The database consists of two optimized relational tables:
 
 Developed by **Team Blaze Forge**:
 - **Namith G T** ([LinkedIn](https://www.linkedin.com/in/namith-g-t-8164a842a))
+- Aarush Pandey
+- Parth
+- Pradeep
