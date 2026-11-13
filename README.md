@@ -61,6 +61,3 @@ The database consists of two optimized relational tables:
 
 Developed by **Team Blaze Forge**:
 - **Namith G T** ([LinkedIn](https://www.linkedin.com/in/namith-g-t-8164a842a))
-- Aarush Pandey
-- Parth
-- Pradeep
