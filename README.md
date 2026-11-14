@@ -17,7 +17,7 @@ A sleek, responsive, and secure web application engineered to streamline campus 
 ## 🛠 Tech Stack & Architecture
 
 - **Backend**: Native PHP 8.x
-- **Database**: MySQL / MariaDB via **PHP Data Objects (PDO)** with parameterized prepared statements
+- **Database**: MySQL via **PHP Data Objects (PDO)** with parameterized prepared statements
 - **Frontend**: Vanilla JavaScript (ES6+), Modern Semantic HTML5, Custom CSS3 Variables & Flexbox/Grid
 - **Security**: 
   - Token-based **CSRF Protection**
@@ -61,6 +61,4 @@ The database consists of two optimized relational tables:
 
 Developed by **Team Blaze Forge**:
 - **Namith G T** ([LinkedIn](https://www.linkedin.com/in/namith-g-t-8164a842a))
-- Aarush Pandey
-- Parth
-- Pradeep
+
