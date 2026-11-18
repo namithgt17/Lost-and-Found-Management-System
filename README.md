@@ -1,10 +1,10 @@
-# 🔍 Campus Lost & Found Management System
+# Campus Lost & Found Management System
 
 A sleek, responsive, and secure web application engineered to streamline campus lost-and-found reporting and item recovery for **Dr. Ambedkar Institute of Technology**.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Institutional Identity Gate**: Lightweight authentication validating 10-character college USN formatting (`1DA22CS001`) with automatic uppercase casting and SQL-level attribution.
 - **Categorized Reporting & Recovery**: Dedicated pipelines for reporting lost valuables and cataloging found items with dynamic location tags and contact links.
@@ -35,7 +35,7 @@ The database consists of two optimized relational tables:
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 1. **Clone or Download the Repository:**
    ```bash
