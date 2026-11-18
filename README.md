@@ -14,7 +14,7 @@ A sleek, responsive, and secure web application engineered to streamline campus 
 
 ---
 
-## 🛠 Tech Stack & Architecture
+## Tech Stack & Architecture
 
 - **Backend**: Native PHP 8.x
 - **Database**: MySQL via **PHP Data Objects (PDO)** with parameterized prepared statements
@@ -27,7 +27,7 @@ A sleek, responsive, and secure web application engineered to streamline campus 
 
 ---
 
-## 🗄 Database Schema
+##  Database Schema
 
 The database consists of two optimized relational tables:
 - `lost_items`: Tracks `id`, `usn`, `object_name`, `location_found`, `phone`, `photo`, and `created_at`.
@@ -57,7 +57,7 @@ The database consists of two optimized relational tables:
 
 ---
 
-## 👥 Authors
+##  Authors
 
 Developed by **Team Blaze Forge**:
 - **Namith G T** ([LinkedIn](https://www.linkedin.com/in/namith-g-t-8164a842a))
